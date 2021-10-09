@@ -3,13 +3,13 @@
 
 ## ________________________________________________________________________________
 
-## This Repository Contains Datasets as listed below
+### This Repository Contains Datasets as listed below
 * Old iphone 4S data
 * New oneplus 6t data
 * mergred train-test data (209 train, 49 test)
 * selective train-test data (191 train, 39 test)
 
-## For single video to CSV => PPG file testing see this repository: https://github.com/sajidahmed12/PPG_Python_Research
+### For single video to CSV => PPG file testing see this repository: https://github.com/sajidahmed12/PPG_Python_Research
 # Dataset csv and MATLAB files 
 <hr>
 
@@ -20,27 +20,27 @@
 
 </hr>
 
-# Regression Results
+### Regression Results
 
 
 <p align="left">
   <img src=figures/regression_new.png>  
 </p>
 
-## Figure: Regression Prediction test Results
+### Figure: Regression Prediction test Results
 
 <p align="left">
   <img src=figures/Figure13.png>  
 </p>
 
-## Figure: Comparison of performances of different regression techniques
+### Figure: Comparison of performances of different regression techniques
 
 <p align="left">
   <img src=figures/Figure12.png>  
 </p>
 
-## Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
+### Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
 
-# Please cite this paper 
+#### Please cite this paper 
 
 "[1] Islam, T.T.; Ahmed, M.S.; Hassanuzzaman, M.; Bin Amir, S.A.; Rahman, T. Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning. Appl. Sci. 2021, 11, 618. https://doi.org/10.3390/app11020618"
