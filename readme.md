@@ -33,13 +33,13 @@
   <img src=figures/Figure13.png>  
 </p>
 
-### Figure: Comparison of performances of different regression techniques
+*Figure: Comparison of performances of different regression techniques
 
 <p align="left">
   <img src=figures/Figure12.png>  
 </p>
 
-### Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
+*Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
 
 #### Please cite this paper 
 
