@@ -9,6 +9,7 @@
 * mergred train-test data (209 train, 49 test)
 * selective train-test data (191 train, 39 test)
 
+## For single video to CSV => PPG file testing see this repository: https://github.com/sajidahmed12/PPG_Python_Research
 # Dataset csv and MATLAB files 
 <hr>
 
