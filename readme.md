@@ -4,10 +4,10 @@
 ## ________________________________________________________________________________
 
 ## This Repository Contains Datasets as listed below
-* 1. Old iphone 4S data
-* 2. New oneplus 6t data
-* 3. mergred train-test data (209 train, 49 test)
-* 4. selective train-test data (191 train, 39 test)
+* Old iphone 4S data
+* New oneplus 6t data
+* mergred train-test data (209 train, 49 test)
+* selective train-test data (191 train, 39 test)
 
 # Dataset csv and MATLAB files 
 <hr>
