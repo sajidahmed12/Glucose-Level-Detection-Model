@@ -25,17 +25,12 @@
   <img src=figures/regression_new.png>  
 </p>
 
-<<<<<<< HEAD
 ## Figure: Regression Prediction Accuracy
-=======
-* Figure: Regression Prediction test Results
->>>>>>> 1136387cb61026fd73b3b091d7abac8eb537364c
 
 <p align="left">
   <img src=figures/Figure13.png>  
 </p>
 
-<<<<<<< HEAD
 ## Some Prediction Results
 
 <p align="left">
@@ -44,15 +39,11 @@
 
 
 ## Figure: Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
-=======
-* Figure: Comparison of performances of different regression techniques
->>>>>>> 1136387cb61026fd73b3b091d7abac8eb537364c
 
 <p align="left">
   <img src=figures/Figure12.png>  
 </p>
 
-<<<<<<< HEAD
 
 ## Proposed Method for Future work 
 
@@ -60,9 +51,6 @@
   <img src=figures/data_flow_firebase.png>  
 </p>
 
-=======
-* Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
->>>>>>> 1136387cb61026fd73b3b091d7abac8eb537364c
 
 #### Please cite this paper 
 
