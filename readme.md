@@ -17,29 +17,40 @@
   <img src=figures/data1.JPG>  <img src=figures/data2.JPG> 
 </p>
 
-
 </hr>
 
 # Regression Results
-
 
 <p align="left">
   <img src=figures/regression_new.png>  
 </p>
 
-## Figure: Regression Prediction test Results
+## Figure: Regression Prediction Accuracy
 
 <p align="left">
   <img src=figures/Figure13.png>  
 </p>
 
-## Figure: Comparison of performances of different regression techniques
+## Some Prediction Results
+
+<p align="left">
+  <img src=figures/SVR_error_23.JPG>  
+</p>
+
+
+## Figure: Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
 
 <p align="left">
   <img src=figures/Figure12.png>  
 </p>
 
-## Figure: SEP of different Random Forest Regression (RFR) models against the number of estimator tress.
+
+## Proposed Method for Future work 
+
+<p align="left">
+  <img src=figures/data_flow_firebase.png>  
+</p>
+
 
 # Please cite this paper 
 
