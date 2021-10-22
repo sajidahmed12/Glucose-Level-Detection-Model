@@ -1,10 +1,12 @@
 # Dataset Visualization 
 
 This Repository Contains Datasets as listed below
-Old iphone 4S data
-New oneplus 6t data
-mergred train-test data (209 train, 49 test)
-selective train-test data collected over Three different Smartphones (191 train, 39 test)
+* Old iphone 4S data
+* New oneplus 6t data
+* mergred train-test data (209 train, 49 test)
+* selective train-test data collected over Three different Smartphones (191 train, 39 test)
+
+#### The Dataset Collection Process is still ongoing. we are collecting new data and once they are processed we will keep update this repository with the newer data. 
 
 ## Dataset Overview
 
