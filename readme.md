@@ -3,7 +3,8 @@
 
 ## ________________________________________________________________________________
 
-### This Repository Contains Datasets as listed below
+### This Repository Contains Datasets as listed below. 
+Check out the link to vew the dataset and collecting progress [here](https://github.com/sajidahmed12/Journal-Code-Glucose-Level-Detection-Model-Python/tree/main/data)
 * Old iphone 4S data
 * New oneplus 6t data
 * mergred train-test data (209 train, 49 test)
