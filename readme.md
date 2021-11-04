@@ -53,11 +53,4 @@ Check out the link to vew the dataset and collecting progress [here](https://git
 
 
 #### Please cite this paper 
-
-@article{2021, 
-title={Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning}, volume={11}, ISSN={2076-3417}, 
-url={http://dx.doi.org/10.3390/app11020618}, 
-DOI={10.3390/app11020618}, number={2}, journal={Applied Sciences}, publisher={MDPI AG}, 
-author={Islam, Tanvir Tazul and Ahmed, Md Sajid and Hassanuzzaman, Md and Bin Amir, Syed Athar and Rahman, Tanzilur}, year={2021}, 
-month={Jan}, pages={618}
-}
+[1]. Islam, T. T., Ahmed, M. S., Hassanuzzaman, M., Bin Amir, S. A., & Rahman, T. (2021). Blood Glucose Level Regression for Smartphone PPG Signals Using Machine Learning. Applied Sciences, 11(2), 618. MDPI AG. Retrieved from http://dx.doi.org/10.3390/app11020618
